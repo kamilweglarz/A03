@@ -26,29 +26,29 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 
 
-**Branch** -  a unique set of code changes with a unique name.
+**•Branch** -  a unique set of code changes with a unique name.
 
-**Clone** - cloning a GitHub repository creates a local copy of the remote repository
+**•Clone** - cloning a GitHub repository creates a local copy of the remote repository
 
-**Commit** - captures a snapshot of the project's currently staged changes
+**•Commit** - captures a snapshot of the project's currently staged changes
 
-**Fetch** - downloads commits, files, and refs from a remote repository into your local repository
+**•Fetch** - downloads commits, files, and refs from a remote repository into your local repository
 
-**GIT** - Git is a version control system that lets you manage and keep track of your source code history
+**•GIT** - Git is a version control system that lets you manage and keep track of your source code history
 
-**GitHub** - GitHub is a cloud-based hosting service that lets you manage Git repositories
+**•GitHub** - GitHub is a cloud-based hosting service that lets you manage Git repositories
 
-**Merge** - way of putting a forked history back together again
+**•Merge** - way of putting a forked history back together again
 
-**Merge Conflict** - event that occurs when Git is unable to automatically resolve differences in code between two commits
+**•Merge Conflict** - event that occurs when Git is unable to automatically resolve differences in code between two commits
 
-**Push** - command that is used to upload local repository content to a remote repository
+**•Push** - command that is used to upload local repository content to a remote repository
 
-**Pull** - used to fetch and download content from a remote repository and immediately update the local repository to match that content
+**•Pull** - used to fetch and download content from a remote repository and immediately update the local repository to match that content
 
-**Remote** - common repository that all team members use to exchange their changes
+**•Remote** - common repository that all team members use to exchange their changes
 
-**Repository** - a directory or storage space where your projects can live
+**•Repository** - a directory or storage space where your projects can live
 
 References:
 https://njit.instructure.com/courses/21544/files/3171214?module_item_id=687829
