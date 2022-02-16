@@ -21,10 +21,6 @@ The file was sent to my GitHub repository : https://github.com/kamilweglarz/A03
 
 Part 2: Glossary to include these terms in a bulleted list.
 
-References:
-https://njit.instructure.com/courses/21544/files/3171214?module_item_id=687829
-https://www.google.com/
-
 
 **Branch** -  a unique set of code changes with a unique name.
 
@@ -49,3 +45,7 @@ https://www.google.com/
 **Remote** - common repository that all team members use to exchange their changes
 
 **Repository** - a directory or storage space where your projects can live
+
+References:
+https://njit.instructure.com/courses/21544/files/3171214?module_item_id=687829
+https://www.google.com/
