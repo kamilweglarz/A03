@@ -3,6 +3,7 @@ Part 1: Directions using Webstorm
 First download webstorm and git from the following websites:
 
 git url: https://git-scm.com/downloads
+
 webstorm url: https://www.jetbrains.com/webstorm/download/#section=windows
 
 Next make an account on GitHub :https://githu.com/join
@@ -48,4 +49,5 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 References:
 https://njit.instructure.com/courses/21544/files/3171214?module_item_id=687829
+
 https://www.google.com/
