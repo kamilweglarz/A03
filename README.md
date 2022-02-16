@@ -20,7 +20,10 @@ After I clicked Git, Commit, and highlighted the file then wrote a commit messag
 
 The file was sent to my GitHub repository : https://github.com/kamilweglarz/A03
 
+
+
 Part 2: Glossary to include these terms in a bulleted list.
+
 
 
 **Branch** -  a unique set of code changes with a unique name.
